@@ -7,7 +7,7 @@ $Tinggi = 155.4;
 
 echo "Nama : $Nama"<br>;
 echo "Jenis Kelamin : $Jenis_Kelamin"<br>;
-echo "Umur : $Umur"<br>;
-echo "Berat : $Berat"<br>;
-echo "Tinggi : $Tinggi"<br>;
+echo "Umur : $Umur tahun"<br>;
+echo "Berat : $Berat kg"<br>;
+echo "Tinggi : $Tinggi cm"<br>;
 ?>
