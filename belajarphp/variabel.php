@@ -5,7 +5,7 @@ $Umur = 16;
 $Berat = 44.8;
 $Tinggi = 155.4;
 
-echo "Nama : $Nama"<br>;
+echo "Nama : $Nama_Lengkap"<br>;
 echo "Jenis Kelamin : $Jenis_Kelamin"<br>;
 echo "Umur : $Umur tahun"<br>;
 echo "Berat : $Berat kg"<br>;
