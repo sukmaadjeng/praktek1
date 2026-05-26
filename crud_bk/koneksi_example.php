@@ -1,3 +1,5 @@
+<?php
+
 $sconn = mysql_connect(
   "localhost",
   "2526_01",
