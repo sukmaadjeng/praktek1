@@ -26,7 +26,7 @@ $data = mysqli_query($koneksi, "SELECT * FROM guru_bk *");
     <div class="card">
 
         <h1 class="judul">
-    DATAA GURU BIMBINGAN KONSELING <br>
+    DATA GURU BIMBINGAN KONSELING <br>
     SMKN 2 BALEENDAH
 </h1>
 
