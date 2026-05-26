@@ -8,9 +8,8 @@ if(!isset($_SESSION['login'])){
 
 include 'koneksi.php';
 
-$data = mysqli_query($koneksi, "SELECT * FROM guru_bk");
+$data = mysqli_query($koneksi, "SELECT * FROM guru_bk *"
 
-echo mysqli_num_rows ($data);
 ?>
 
 <!DOCTYPE html>
