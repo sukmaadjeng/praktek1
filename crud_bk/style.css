@@ -164,3 +164,11 @@ textarea:focus {
   margin-bottom: 25px;
   font-size: 13px;
 }
+td{
+    color: black !important;
+    background: white !important;
+}
+
+tr{
+    background: white !important;
+}
