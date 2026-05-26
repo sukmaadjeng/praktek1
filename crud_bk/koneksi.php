@@ -1,8 +1,8 @@
 <?php
 
 $koneksi = mysqli_connect(
-    "localhost",
-    "root",
+    "2526_01",
+    "12345678,
     "",
     "2526_01 db"
 );
